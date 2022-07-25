@@ -28,7 +28,7 @@ For a visual of these changes, please review the images below.
 ![OG_District_Summary](https://user-images.githubusercontent.com/101153516/180674265-fbd94b4f-f82c-4e9c-b0db-97fa16a63340.jpg)
 
 ### School Summary
-The School Summary includes the following data: School Type, Total Students, Total School Budget, Per Student Budget, Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, and % Overall Passing. Categories that remain unchaged in both the original and revised analyses include: School Type (District and Charter), Total Students (count of student per school), Total School Budget (budget per school), and Per Student Budget (budget per student).
+The School Summary includes the following data: School Type, Total Students, Total School Budget, Per Student Budget, Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, and % Overall Passing. Categories that remain unchanged in both the original and revised analyses include: School Type (District and Charter), Total Students (count of student per school), Total School Budget (budget per school), and Per Student Budget (budget per student).
 
 Below, you can see how the removal of the ninth grade math and reading scores for Thomas High School impacted the School Summary. 
 
@@ -61,4 +61,6 @@ Scores by school spending were unaffected by this change as budgets were not imp
 Likewise, scores by school size and scores by school type were also unaffected by this change. 
 
 ## Summary
-By replacing Thomas High School ninth grade scores with "nan," we see a decrease in the follwoing categories: Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, and % Overall Passing.
+By replacing Thomas High School ninth grade scores with "nan," we see a slight decrease for the District Summary in the following categories: Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, and % Overall Passing. There are no increases in the categories I analyzed for the District Summary. In the School Summary, we see a slight decrease in four categories: Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing. Only one category for the School Summary had a slight increase, Average Reading Score. 
+
+Based on these findings, I conclude it is very unlikely there was academic dishonesty for the ninth grade level at Thomas High School. I would anticipate a more significant increase in performance which would inflate the numbers for the categories that were analyzed.  
